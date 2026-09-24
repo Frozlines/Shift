@@ -1,0 +1,3 @@
+storage/installed.lock
+storage/logs/*.log
+.DS_Store
